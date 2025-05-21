@@ -3,6 +3,7 @@
 	"title": "Phosphor Bold Icons",
 	"description": "Adds Phosphor Bold icons to your blog, available for use in templates",
 	"includes": [
+		"phosphor-bold-preload.html",
 		"/css/phosphor-bold-style.css"
 	]  
 }
